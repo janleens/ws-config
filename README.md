@@ -1,2 +1,2 @@
 # ws-config
-Config server
+Config repo
