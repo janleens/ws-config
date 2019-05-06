@@ -1,0 +1,2 @@
+# ws-config
+Config server
